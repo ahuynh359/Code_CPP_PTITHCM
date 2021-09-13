@@ -1,0 +1,3 @@
+﻿  CapSoNguyenTo.cpp
+E:\CodePTIT\HK2\CapSoNguyenTo\CapSoNguyenTo.cpp(27,24): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  CapSoNguyenTo.vcxproj -> E:\CodePTIT\x64\Debug\CapSoNguyenTo.exe
