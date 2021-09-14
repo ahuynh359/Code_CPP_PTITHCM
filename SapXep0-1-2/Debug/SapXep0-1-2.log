@@ -1,0 +1,4 @@
+﻿  SapXep0-1-2.cpp
+C:\Users\ASUS\Desktop\CodePTIT\SapXep0-1-2\SapXep0-1-2.cpp(5,19): warning C4101: 'a': unreferenced local variable
+C:\Users\ASUS\Desktop\CodePTIT\SapXep0-1-2\SapXep0-1-2.cpp(5,22): warning C4101: 'b': unreferenced local variable
+  SapXep0-1-2.vcxproj -> C:\Users\ASUS\Desktop\CodePTIT\Debug\SapXep0-1-2.exe
