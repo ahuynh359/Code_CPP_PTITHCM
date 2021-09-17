@@ -1,0 +1,5 @@
+﻿  ChiaHetCho5.cpp
+C:\Users\ASUS\Desktop\CodePTIT\ChiaHetCho5\ChiaHetCho5.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\CodePTIT\ChiaHetCho5\ChiaHetCho5.cpp(9,13): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\ASUS\Desktop\CodePTIT\ChiaHetCho5\ChiaHetCho5.cpp(18,6): warning C4101: 'dem': unreferenced local variable
+  ChiaHetCho5.vcxproj -> C:\Users\ASUS\Desktop\CodePTIT\Debug\ChiaHetCho5.exe

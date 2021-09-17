@@ -1,0 +1,4 @@
+﻿  ChiaHetCho11.cpp
+C:\Users\ASUS\Desktop\CodePTIT\ChiaHetCho11\ChiaHetCho11.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\CodePTIT\ChiaHetCho11\ChiaHetCho11.cpp(19,6): warning C4101: 'dem': unreferenced local variable
+  ChiaHetCho11.vcxproj -> C:\Users\ASUS\Desktop\CodePTIT\Debug\ChiaHetCho11.exe

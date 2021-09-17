@@ -1,0 +1,7 @@
+﻿  SapXepTheoSoLanXuatHien.cpp
+C:\Users\ASUS\Desktop\CodePTIT\SapXepTheoSoLanXuatHien\SapXepTheoSoLanXuatHien.cpp(33,47): error C2977: 'std::greater': too many template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstddef(109): message : see declaration of 'std::greater'
+C:\Users\ASUS\Desktop\CodePTIT\SapXepTheoSoLanXuatHien\SapXepTheoSoLanXuatHien.cpp(33,48): error C2977: 'std::greater': too many template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstddef(109): message : see declaration of 'std::greater'
+C:\Users\ASUS\Desktop\CodePTIT\SapXepTheoSoLanXuatHien\SapXepTheoSoLanXuatHien.cpp(33,32): error C2955: 'std::greater': use of class template requires template argument list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstddef(109): message : see declaration of 'std::greater'

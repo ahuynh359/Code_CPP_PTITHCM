@@ -1,0 +1,6 @@
+﻿  KyTuKhongLap.cpp
+C:\Users\ASUS\Desktop\CodePTIT\KyTuKhongLap\KyTuKhongLap.cpp(19,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\CodePTIT\KyTuKhongLap\KyTuKhongLap.cpp(25,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\CodePTIT\KyTuKhongLap\KyTuKhongLap.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\CodePTIT\KyTuKhongLap\KyTuKhongLap.cpp(34,18): warning C4018: '<': signed/unsigned mismatch
+  KyTuKhongLap.vcxproj -> C:\Users\ASUS\Desktop\CodePTIT\Debug\KyTuKhongLap.exe

@@ -1,0 +1,4 @@
+﻿  DemTu.cpp
+C:\Users\ASUS\Desktop\CodePTIT\DemTu\DemTu.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\CodePTIT\DemTu\DemTu.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+  DemTu.vcxproj -> C:\Users\ASUS\Desktop\CodePTIT\Debug\DemTu.exe

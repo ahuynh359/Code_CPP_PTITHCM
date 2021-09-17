@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ea3dd43-c2af-49ec-9e05-de8ad718896d": {
+      "ProjectGuid": "0ea3dd43-c2af-49ec-9e05-de8ad718896d",
+      "DisplayName": "PhanTuDauTienLapLai",
+      "ColorIndex": 0
+    },
+    "23bdb6e7-00a0-41f6-b03a-baa9327c1385": {
+      "ProjectGuid": "23bdb6e7-00a0-41f6-b03a-baa9327c1385",
+      "DisplayName": "LietKeKPhanTuLonNhat",
+      "ColorIndex": 1
+    },
+    "d4b2191b-bfbc-4aca-9d5a-252765522b0f": {
+      "ProjectGuid": "d4b2191b-bfbc-4aca-9d5a-252765522b0f",
+      "DisplayName": "DemSoLanXuatHien",
+      "ColorIndex": 2
+    },
+    "53ca42c9-c5fe-41bf-af1b-68b13e49c2d0": {
+      "ProjectGuid": "53ca42c9-c5fe-41bf-af1b-68b13e49c2d0",
+      "DisplayName": "CapSoNguyenToDauTienCoTongBangN",
+      "ColorIndex": 3
+    },
+    "89c61a34-881b-4c04-9f22-ba4dcf23563a": {
+      "ProjectGuid": "89c61a34-881b-4c04-9f22-ba4dcf23563a",
+      "DisplayName": "TongGan0Nhat",
+      "ColorIndex": 4
+    },
+    "590e383c-f8cd-4c55-a98a-184bdbc3924e": {
+      "ProjectGuid": "590e383c-f8cd-4c55-a98a-184bdbc3924e",
+      "DisplayName": "SoNhoNhatVaNhoThuHai",
+      "ColorIndex": 5
+    },
+    "deec3fe2-383f-4e86-93cf-30c661716038": {
+      "ProjectGuid": "deec3fe2-383f-4e86-93cf-30c661716038",
+      "DisplayName": "TimKiemTrongDaySapXepVong",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c3be1039-6289-479f-aa97-4b7779793fbd": {
+      "ProjectGuid": "c3be1039-6289-479f-aa97-4b7779793fbd",
+      "DisplayName": "SoNhoNhatConThieu",
+      "ColorIndex": 7
+    },
+    "ab82f256-259d-4e75-ace6-18205e5fea31": {
+      "ProjectGuid": "ab82f256-259d-4e75-ace6-18205e5fea31",
+      "DisplayName": "BoSungPhanTu",
+      "ColorIndex": 8
+    },
+    "256ab55c-acf6-43db-8a20-2799f1c97329": {
+      "ProjectGuid": "256ab55c-acf6-43db-8a20-2799f1c97329",
+      "DisplayName": "SoNhoNhatChuaXuatHien",
+      "ColorIndex": 9
+    },
+    "b45451a6-d389-479e-9176-6d9b1d920b67": {
+      "ProjectGuid": "b45451a6-d389-479e-9176-6d9b1d920b67",
+      "DisplayName": "TimKiemNhiPhan",
+      "ColorIndex": 10
+    },
+    "2763b3e0-e078-45d0-af30-fd6bc9ae4573": {
+      "ProjectGuid": "2763b3e0-e078-45d0-af30-fd6bc9ae4573",
+      "DisplayName": "ChuSoDauCuoi",
+      "ColorIndex": 11
+    },
+    "94bf711b-e115-4739-bed6-e3d1189ccc41": {
+      "ProjectGuid": "94bf711b-e115-4739-bed6-e3d1189ccc41",
+      "DisplayName": "DemSoChuSo",
+      "ColorIndex": 12
+    },
+    "2cea6f18-cb9d-4308-ace2-48a23ebfb2a1": {
+      "ProjectGuid": "2cea6f18-cb9d-4308-ace2-48a23ebfb2a1",
+      "DisplayName": "BangCuuChuong",
+      "ColorIndex": 13
+    },
+    "76e9014c-08c0-4037-a99b-4296e404cc4c": {
+      "ProjectGuid": "76e9014c-08c0-4037-a99b-4296e404cc4c",
+      "DisplayName": "TimKiemTuanTu",
+      "ColorIndex": 14
+    },
+    "51fcb22e-d6b3-44f0-9fc3-eaa98d5c4d8d": {
+      "ProjectGuid": "51fcb22e-d6b3-44f0-9fc3-eaa98d5c4d8d",
+      "DisplayName": "TinhTongTrongDoan",
+      "ColorIndex": 15
+    },
+    "d1b0adba-c8c5-4a5e-8326-028c96aa9157": {
+      "ProjectGuid": "d1b0adba-c8c5-4a5e-8326-028c96aa9157",
+      "DisplayName": "PhuongTrinhBac2",
+      "ColorIndex": 0
+    },
+    "f7ea0457-62da-4cd8-bd07-66c8a48dbeba": {
+      "ProjectGuid": "f7ea0457-62da-4cd8-bd07-66c8a48dbeba",
+      "DisplayName": "ChuyenDoiNgayThang",
+      "ColorIndex": 1
+    },
+    "2f462f1f-257a-4069-8b93-1bc0a89a6dad": {
+      "ProjectGuid": "2f462f1f-257a-4069-8b93-1bc0a89a6dad",
+      "DisplayName": "ChuyenDoiThangDoNhietDo",
+      "ColorIndex": 2
+    },
+    "1bfb906d-fad5-400b-accb-b8c62b84e202": {
+      "ProjectGuid": "1bfb906d-fad5-400b-accb-b8c62b84e202",
+      "DisplayName": "HinhChuNhat",
+      "ColorIndex": 3
+    },
+    "c236439b-aab8-4a27-bcc0-4c14180ed83c": {
+      "ProjectGuid": "c236439b-aab8-4a27-bcc0-4c14180ed83c",
+      "DisplayName": "PhepToanCoBan",
+      "ColorIndex": 4
+    },
+    "09ef2426-a1ae-4da6-8f74-cbd6000eff71": {
+      "ProjectGuid": "09ef2426-a1ae-4da6-8f74-cbd6000eff71",
+      "DisplayName": "TinhTong",
+      "ColorIndex": 5
+    },
+    "ee9ede4d-d3cd-4a74-90d2-44b6e2e32dd5": {
+      "ProjectGuid": "ee9ede4d-d3cd-4a74-90d2-44b6e2e32dd5",
+      "DisplayName": "SoDep1",
+      "ColorIndex": 6
+    },
+    "94dcb8df-f505-4c93-a4c3-93f37403b6ef": {
+      "ProjectGuid": "94dcb8df-f505-4c93-a4c3-93f37403b6ef",
+      "DisplayName": "LietKeSNTTrongDay",
+      "ColorIndex": 7
+    },
+    "f657af97-db60-43ed-aac7-9ee7174317f3": {
+      "ProjectGuid": "f657af97-db60-43ed-aac7-9ee7174317f3",
+      "DisplayName": "SoDungDau",
+      "ColorIndex": 8
+    },
+    "157d46fe-950a-4671-973f-8432f07219e2": {
+      "ProjectGuid": "157d46fe-950a-4671-973f-8432f07219e2",
+      "DisplayName": "ChuSoChanLe1",
+      "ColorIndex": 9
+    },
+    "581c9cab-1485-43e0-b064-946eba19de33": {
+      "ProjectGuid": "581c9cab-1485-43e0-b064-946eba19de33",
+      "DisplayName": "TronHaiDayVaSapXep",
+      "ColorIndex": 10
+    },
+    "f8b4bd47-1220-45e3-aaa4-4d9790ed45e6": {
+      "ProjectGuid": "f8b4bd47-1220-45e3-aaa4-4d9790ed45e6",
+      "DisplayName": "TinhTich",
+      "ColorIndex": 11
+    },
+    "c0b51816-d9f1-4c61-8c9b-3d12389b791f": {
+      "ProjectGuid": "c0b51816-d9f1-4c61-8c9b-3d12389b791f",
+      "DisplayName": "SapXepChuSo",
+      "ColorIndex": 12
+    },
+    "fe3498c4-8d37-4d80-9365-701acee14aa1": {
+      "ProjectGuid": "fe3498c4-8d37-4d80-9365-701acee14aa1",
+      "DisplayName": "DemCapPhanTuCoTongBangK",
+      "ColorIndex": 13
+    },
+    "cdaa767b-84e6-4b5b-89f9-585ae8dfeec7": {
+      "ProjectGuid": "cdaa767b-84e6-4b5b-89f9-585ae8dfeec7",
+      "DisplayName": "SapXep0-1-2",
+      "ColorIndex": 14
+    },
+    "c9cf3804-5c82-438b-8396-b98e90c28e3c": {
+      "ProjectGuid": "c9cf3804-5c82-438b-8396-b98e90c28e3c",
+      "DisplayName": "SapXepXenKe-1",
+      "ColorIndex": 15
+    },
+    "4aa6a981-79da-4e60-ba33-f429b3a4381d": {
+      "ProjectGuid": "4aa6a981-79da-4e60-ba33-f429b3a4381d",
+      "DisplayName": "KhoangCachNhoNhat",
+      "ColorIndex": 0
+    },
+    "c1c21e12-d5fd-462e-88b8-9c4e848bba60": {
+      "ProjectGuid": "c1c21e12-d5fd-462e-88b8-9c4e848bba60",
+      "DisplayName": "TinhTongTrongKhoang",
+      "ColorIndex": 1
+    },
+    "d897866c-f514-4a18-8154-95cecde9ea72": {
+      "ProjectGuid": "d897866c-f514-4a18-8154-95cecde9ea72",
+      "DisplayName": "DayTamGiac",
+      "ColorIndex": 2
+    },
+    "4ffce8c5-a278-4b44-a322-55b53805bbed": {
+      "ProjectGuid": "4ffce8c5-a278-4b44-a322-55b53805bbed",
+      "DisplayName": "PhanTuLonNhat",
+      "ColorIndex": 3
+    },
+    "1856803c-5dd8-43a8-a893-d438aac6309e": {
+      "ProjectGuid": "1856803c-5dd8-43a8-a893-d438aac6309e",
+      "DisplayName": "PhanTuNhoNhatThuK",
+      "ColorIndex": 4
+    },
+    "a5d73242-1abb-41bf-b1f3-f8defa23fd77": {
+      "ProjectGuid": "a5d73242-1abb-41bf-b1f3-f8defa23fd77",
+      "DisplayName": "GhepDaySo",
+      "ColorIndex": 5
+    },
+    "293f25ca-d120-4983-8d60-713f15c7e963": {
+      "ProjectGuid": "293f25ca-d120-4983-8d60-713f15c7e963",
+      "DisplayName": "So0OCuoiDay",
+      "ColorIndex": 6
+    },
+    "e8ca4dc3-625e-4951-9647-2ee2ecb949ba": {
+      "ProjectGuid": "e8ca4dc3-625e-4951-9647-2ee2ecb949ba",
+      "DisplayName": "SapDatDaySo",
+      "ColorIndex": 7
+    },
+    "1db52a7e-2ff0-4d13-a820-8fe874f1566e": {
+      "ProjectGuid": "1db52a7e-2ff0-4d13-a820-8fe874f1566e",
+      "DisplayName": "BienCuaMaTran",
+      "ColorIndex": 8
+    },
+    "73b8ec9c-2a35-46f4-83ec-1f633669c3a9": {
+      "ProjectGuid": "73b8ec9c-2a35-46f4-83ec-1f633669c3a9",
+      "DisplayName": "InMaTran-1",
+      "ColorIndex": 9
+    },
+    "58701b94-8b13-4924-aca9-6306af673436": {
+      "ProjectGuid": "58701b94-8b13-4924-aca9-6306af673436",
+      "DisplayName": "XauPangram",
+      "ColorIndex": 10
+    },
+    "518e9cdf-e3a5-40a7-b2c8-6d5d43a029ee": {
+      "ProjectGuid": "518e9cdf-e3a5-40a7-b2c8-6d5d43a029ee",
+      "DisplayName": "DiaChiEmail-1",
+      "ColorIndex": 11
+    },
+    "2e305aa7-6618-49e1-a4fd-8fc188376062": {
+      "ProjectGuid": "2e305aa7-6618-49e1-a4fd-8fc188376062",
+      "DisplayName": "DemTu",
+      "ColorIndex": 12
+    },
+    "0c9a05c5-7367-4bfe-aa8b-b52ef3d57e39": {
+      "ProjectGuid": "0c9a05c5-7367-4bfe-aa8b-b52ef3d57e39",
+      "DisplayName": "ChiaHetCho11",
+      "ColorIndex": 13
+    },
+    "e6daed0d-cac9-4bd4-abdc-cca41b876aef": {
+      "ProjectGuid": "e6daed0d-cac9-4bd4-abdc-cca41b876aef",
+      "DisplayName": "ChiaHetCho5",
+      "ColorIndex": 14
+    },
+    "70974aa3-aea4-4052-998e-5dfc3d0769f4": {
+      "ProjectGuid": "70974aa3-aea4-4052-998e-5dfc3d0769f4",
+      "DisplayName": "SoHoanHao",
+      "ColorIndex": 15
+    },
+    "52fff817-5fac-4715-bb82-c3f8830997ab": {
+      "ProjectGuid": "52fff817-5fac-4715-bb82-c3f8830997ab",
+      "DisplayName": "DauCuoiGiongNhau",
+      "ColorIndex": 0
+    },
+    "30d7a5c5-d791-4ee3-acc6-6a911adb00d2": {
+      "ProjectGuid": "30d7a5c5-d791-4ee3-acc6-6a911adb00d2",
+      "DisplayName": "BienDoiNhiPhan",
+      "ColorIndex": 1
+    },
+    "8012342e-2614-4d58-be26-afbfbd04d5fb": {
+      "ProjectGuid": "8012342e-2614-4d58-be26-afbfbd04d5fb",
+      "DisplayName": "KyTuKhongLap",
+      "ColorIndex": 2
+    },
+    "c15a6dd9-38b4-41ff-a01e-3e27575f8e53": {
+      "ProjectGuid": "c15a6dd9-38b4-41ff-a01e-3e27575f8e53",
+      "DisplayName": "DaoTu",
+      "ColorIndex": 3
+    },
+    "d7182256-4813-4066-852e-f965f2c2b1a1": {
+      "ProjectGuid": "d7182256-4813-4066-852e-f965f2c2b1a1",
+      "DisplayName": "SoMayMan",
+      "ColorIndex": 4
+    },
+    "54ef3328-64c4-4c30-98f1-07496bbc5cdd": {
+      "ProjectGuid": "54ef3328-64c4-4c30-98f1-07496bbc5cdd",
+      "DisplayName": "NhoNhatLonNhat",
+      "ColorIndex": 5
+    },
+    "e2987d60-cfaf-4926-a3a9-3fca2a487453": {
+      "ProjectGuid": "e2987d60-cfaf-4926-a3a9-3fca2a487453",
+      "DisplayName": "TinhTongChuSo",
+      "ColorIndex": 6
+    },
+    "802aa522-f58f-4afd-a722-5edf69cad3af": {
+      "ProjectGuid": "802aa522-f58f-4afd-a722-5edf69cad3af",
+      "DisplayName": "TinhTongHaiPhanSo",
+      "ColorIndex": 7
+    },
+    "19c4aba5-05b1-47a6-b8d5-bb942750ed48": {
+      "ProjectGuid": "19c4aba5-05b1-47a6-b8d5-bb942750ed48",
+      "DisplayName": "CauTrucPhanSo",
+      "ColorIndex": 8
+    },
+    "118d30bb-30df-4f6a-9952-7b2b1e19d29c": {
+      "ProjectGuid": "118d30bb-30df-4f6a-9952-7b2b1e19d29c",
+      "DisplayName": "SoLapLai",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

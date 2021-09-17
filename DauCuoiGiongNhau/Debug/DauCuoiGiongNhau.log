@@ -1,0 +1,4 @@
+﻿  DauCuoiGiongNhau.cpp
+C:\Users\ASUS\Desktop\CodePTIT\DauCuoiGiongNhau\DauCuoiGiongNhau.cpp(15,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\CodePTIT\DauCuoiGiongNhau\DauCuoiGiongNhau.cpp(16,22): warning C4018: '<': signed/unsigned mismatch
+  DauCuoiGiongNhau.vcxproj -> C:\Users\ASUS\Desktop\CodePTIT\Debug\DauCuoiGiongNhau.exe
