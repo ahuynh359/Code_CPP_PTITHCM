@@ -1,7 +1,7 @@
 
 
 #include <iostream>
-
+#include<math.h>
 using namespace std;
 bool SNT(long long int n) {
     if (n < 2)
@@ -19,7 +19,6 @@ bool SNT(long long int n) {
 int main() {
     int t;
     long long int  n;
-    cin >> t;
     cin >> n;
     if (SNT(n))
         cout << "YES";
