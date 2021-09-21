@@ -1,20 +1,24 @@
-// CauTrucDiem.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+#include<iostream>
+#include <math.h>
+#include <iomanip>
+using namespace std;
 
-#include <iostream>
-
-int main()
-{
-    std::cout << "Hello World!\n";
+struct Point {
+    double x, y;
+};
+void input(Point& a) {
+    cin >> a.x >> a.y;
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
+double distance(Point d1, Point d2) {
+    return sqrt(pow(d2.y - d1.y, 2) + pow(d2.x - d1.x, 2));
+}
+int main() {
+    struct Point A, B;
+    int t;
+    cin >> t;
+    while (t--) {
+        input(A); input(B);
+        cout << fixed << setprecision(4) << distance(A, B) << endl;
+    }
+    return 0;
+}
