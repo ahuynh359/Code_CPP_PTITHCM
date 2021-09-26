@@ -1,23 +1,26 @@
-#include<math.h>
 #include <iostream>
+#include <string>
+
 using namespace std;
-int main()
-{
-	int t;
-	int x, y;
-	long long int p;
-	cin >> t;
 
-	while (t--) {
-		cin >> x >> y >> p;
-		long long int s = 1;
-		for (int i = 1; i <= y; i++)
-			s = (s * x) % p;
+struct SinhVien {
+    string hoTen, lop, diem;
+}sva;
 
-		cout << s << endl;
+void nhap(SinhVien* sv, int n) {
+    for (int i = 0; i < n; i++) {
+        getline(cin, sv[i].hoTen);
+        getline(cin, sv[i].lop);
+        getline(cin, sv[i].diem);
 
 
-	}
+    }
+}
 
+int main() {
 
+    SinhVien sva;
+    sva.hoTen = "a";
+
+    return 0;
 }
