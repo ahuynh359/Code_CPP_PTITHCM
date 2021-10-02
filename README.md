@@ -1,5 +1,5 @@
 # CodePTIT
 Bài tập web https://code.ptit.edu.vn/
 
-Folder _HK1 và các bài bên ngoài là HK2. Search theo tên bài 
+Folder _HK1 chứa các bài HK1 và các bài bên ngoài là HK2. Search theo tên bài 
  
