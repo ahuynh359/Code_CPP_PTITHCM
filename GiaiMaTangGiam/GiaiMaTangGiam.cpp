@@ -2,46 +2,47 @@
 #include<stack>
 using namespace std;
 
-void solution()
+void tangGiam(string s)
 {
-    string s;
-    stack <int> mystack;
-    cin >> s;
+
+    stack <int> arr;
     int i, j = 0;
     for (i = 0; i < s.length(); i++)
     {
         if (s[i] == 'D')
         {
             if (i == 0 || s[i - 1] == 'I')
-                mystack.push(++j);
-            mystack.push(++j);
+                arr.push(++j);
+            arr.push(++j);
         }
         else
         {
-            while (!mystack.empty())
+            while (!arr.empty())
             {
-                cout << mystack.top();
-                mystack.pop();
+                cout << arr.top();
+                arr.pop();
             }
             if (i == 0) cout << ++j;
             if (s[i + 1] != 'D')cout << ++j;
         }
     }
-    while (!mystack.empty())
+    while (!arr.empty())
     {
-        cout << mystack.top();
-        mystack.pop();
+        cout << arr.top();
+        arr.pop();
     }
     cout << endl;
 }
 
 int main()
 {
-    int T;
-    cin >> T;
-    while (T--)
+    int t;
+    string s;
+    cin >> t;
+    while (t--)
     {
-        solution();
+        cin >> s;
+        tangGiam(s);
     }
     return 0;
 }
