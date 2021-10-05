@@ -1,51 +1,47 @@
-﻿#include<map>
-#include <iostream>
-#include<vector>
-#include<algorithm>
-#include<functional>
+﻿#include<bits/stdc++.h>
+
 using namespace std;
 
-bool sortByVal(const pair<int, int>& a,
-	const pair<int, int>& b)
-{
-	return (a.second > b.second);
+struct So {
+    int gTri;
+    int soLan;
+};
+bool cmp(So s1, So s2) {
+    if (s1.soLan == s2.soLan)
+        return s1.gTri < s2.gTri;
+    return s1.soLan > s2.soLan;
 }
 
+int main() {
+    int t, * arr, n;
+    vector<So>so;
 
-int main()
-{
-	int t, n, * arr;
-	map<int, int>dem;
-	cin >> t;
-	while (t--) {
-		cin >> n;
-		arr = new int[n];
-		for (int i = 0; i < n; i++) {
-			cin >> arr[i];
-			dem[arr[i]]++;
-		}
+    map<int, int>dem;
+    cin >> t;
+    while (t--) {
+        cin >> n;
+        int* d = new int[100001]{ 0 };
+        dem.clear();
+        so.clear();
+        arr = new int[n];
+        for (int i = 0; i < n; i++) {
+            cin >> arr[i];
+            dem[arr[i]]++;
+        }
+        for (auto it : dem) {
+            So s{};
+            s.gTri = it.first;
+            s.soLan = it.second;
+            so.push_back(s);
+        }
+        sort(so.begin(), so.end(), cmp);
+        for (int i = 0; i < so.size(); i++)
+            for (int j = 0; j < so[i].soLan; j++)
+                cout << so[i].gTri << " ";
+        cout << endl;
 
+        delete[]arr;
+        delete[]d;
+    }
 
-
-		vector<pair<int, int>> vec;
-		map<int, int> ::iterator it2;
-		for (it2 = dem.begin(); it2 != dem.end(); it2++)
-		{
-			vec.push_back(make_pair(it2->first, it2->second));
-		}
-
-
-		sort(vec.begin(), vec.end(),sortByVal);
-
-
-		for (int i = 0; i < vec.size(); i++)
-		{
-			for (int j = 0; j < vec[i].second; j++)
-				cout << vec[i].first << " ";
-		}
-		cout << endl;
-		dem.clear();
-		delete[]arr;
-	}
 }
-
