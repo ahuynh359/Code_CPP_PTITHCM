@@ -295,7 +295,47 @@
       "ProjectGuid": "118d30bb-30df-4f6a-9952-7b2b1e19d29c",
       "DisplayName": "SoLapLai",
       "ColorIndex": 9
+    },
+    "45e4224e-8652-4ea2-9da0-9d424f386134": {
+      "ProjectGuid": "45e4224e-8652-4ea2-9da0-9d424f386134",
+      "DisplayName": "BangDiemThanhPhan-1",
+      "ColorIndex": 10
+    },
+    "063859a1-075f-4d57-a072-76adfbbcd61f": {
+      "ProjectGuid": "063859a1-075f-4d57-a072-76adfbbcd61f",
+      "DisplayName": "QuanLiBanHang-1",
+      "ColorIndex": 11
+    },
+    "bbb4653a-1800-403a-8f2f-6176f9a0c55c": {
+      "ProjectGuid": "bbb4653a-1800-403a-8f2f-6176f9a0c55c",
+      "DisplayName": "Cong1VaNhanDoi",
+      "ColorIndex": 12
+    },
+    "85a50cd5-e2cf-4d77-ba01-592f560275e6": {
+      "ProjectGuid": "85a50cd5-e2cf-4d77-ba01-592f560275e6",
+      "DisplayName": "TongLonNhatCuaDayConTangLienTuc",
+      "ColorIndex": 13
+    },
+    "8a61555c-9e1c-4d29-a790-9b3e6768969d": {
+      "ProjectGuid": "8a61555c-9e1c-4d29-a790-9b3e6768969d",
+      "DisplayName": "NguyenToCungNhau",
+      "ColorIndex": 14
+    },
+    "a6ff9b92-8c95-4380-8258-812f4d81b9a1": {
+      "ProjectGuid": "a6ff9b92-8c95-4380-8258-812f4d81b9a1",
+      "DisplayName": "CuaSoTruot",
+      "ColorIndex": 15
+    },
+    "39d8f5a0-3f31-4187-a56c-294c9c21eac6": {
+      "ProjectGuid": "39d8f5a0-3f31-4187-a56c-294c9c21eac6",
+      "DisplayName": "KhoangCachBangX",
+      "ColorIndex": 0
+    },
+    "4d736b68-5ac3-4671-bf59-f5e4957ae208": {
+      "ProjectGuid": "4d736b68-5ac3-4671-bf59-f5e4957ae208",
+      "DisplayName": "TichLonNhatCuaDayConLienTuc",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 2
 }

@@ -1,0 +1,19 @@
+﻿  QuanLiBanHang-1.cpp
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(50,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(72,20): error C2838: 'ten': illegal qualified name in member declaration
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(73,20): error C2838: 'diaChi': illegal qualified name in member declaration
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(74,18): error C2838: 'tenMH': illegal qualified name in member declaration
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(75,18): error C2838: 'donvi': illegal qualified name in member declaration
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(76,15): error C2838: 'giaBan': illegal qualified name in member declaration
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(80,34): error C2039: 'ten': is not a member of 'HoaDon'
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(63): message : see declaration of 'HoaDon'
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(80,51): error C2039: 'diaChi': is not a member of 'HoaDon'
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(63): message : see declaration of 'HoaDon'
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(80,93): error C2039: 'donvi': is not a member of 'HoaDon'
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(63): message : see declaration of 'HoaDon'
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(82,10): error C2039: 'giaBan': is not a member of 'HoaDon'
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(63): message : see declaration of 'HoaDon'
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(82,64): error C2039: 'giaBan': is not a member of 'HoaDon'
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(63): message : see declaration of 'HoaDon'
+C:\Users\ASUS\Desktop\CodePTIT\QuanLiBanHang-1\QuanLiBanHang-1.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
