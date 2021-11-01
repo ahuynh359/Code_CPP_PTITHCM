@@ -1,5 +1,0 @@
-﻿  SoHoanHao.cpp
-C:\Users\ASUS\Desktop\CodePTIT\SoHoanHao\SoHoanHao.cpp(22,21): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
-C:\Users\ASUS\Desktop\CodePTIT\SoHoanHao\SoHoanHao.cpp(24,18): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
-C:\Users\ASUS\Desktop\CodePTIT\SoHoanHao\SoHoanHao.cpp(25,41): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
-  SoHoanHao.vcxproj -> C:\Users\ASUS\Desktop\CodePTIT\Debug\SoHoanHao.exe

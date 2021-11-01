@@ -335,7 +335,27 @@
       "ProjectGuid": "4d736b68-5ac3-4671-bf59-f5e4957ae208",
       "DisplayName": "TichLonNhatCuaDayConLienTuc",
       "ColorIndex": 1
+    },
+    "c8ac7b84-a3f2-4d91-961a-de4a49f1b8c9": {
+      "ProjectGuid": "c8ac7b84-a3f2-4d91-961a-de4a49f1b8c9",
+      "DisplayName": "SoNhoNhatLonHonArr[i]",
+      "ColorIndex": 2
+    },
+    "b19eadcd-c582-4de8-81a9-b617a8ea1b81": {
+      "ProjectGuid": "b19eadcd-c582-4de8-81a9-b617a8ea1b81",
+      "DisplayName": "DanhSachDoiTuongSV-3",
+      "ColorIndex": 3
+    },
+    "13aa4458-3497-4597-95ea-e3f29c87c984": {
+      "ProjectGuid": "13aa4458-3497-4597-95ea-e3f29c87c984",
+      "DisplayName": "DemCapPhanTuCoHieuNhoHonK",
+      "ColorIndex": 4
+    },
+    "715ed6f0-c94c-49a8-a43d-6e6ead29979f": {
+      "ProjectGuid": "715ed6f0-c94c-49a8-a43d-6e6ead29979f",
+      "DisplayName": "TongLonNhat",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }
